@@ -1,0 +1,10 @@
+com\web3\studentdetails\controller\StudentDetailsController.class
+com\web3\studentdetails\StudentDetailsApplication.class
+com\web3\studentdetails\StudentApplication.class
+com\web3\studentdetails\studentexception\WrongID.class
+com\web3\studentdetails\model\StudentDetailsModel.class
+com\web3\studentdetails\utill\Constant.class
+com\web3\studentdetails\repository\StudentDetailsRepository.class
+com\web3\studentdetails\StudentApplication$1.class
+com\web3\studentdetails\service\StudentDetailsService.class
+com\web3\studentdetails\studentexception\StudentExceptionHandler.class
