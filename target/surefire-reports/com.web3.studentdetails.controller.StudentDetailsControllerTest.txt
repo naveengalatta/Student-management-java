@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.web3.studentdetails.controller.StudentDetailsControllerTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.76 s - in com.web3.studentdetails.controller.StudentDetailsControllerTest
